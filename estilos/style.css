@@ -23,7 +23,10 @@ h2 {
 color: blueviolet;
 }
 
-<img src="lado" alt="lado">
+img.lado {
+    float: right;
+}
+
 
 a {
     tet-decoration:none;
